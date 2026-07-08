@@ -1,8 +1,3 @@
-
-Your content is already well structured. Below is a polished, professional version that you can use directly in your GitHub README, Power BI project description, portfolio, or resume.
-
----
-
 # 🛒 Olist Store Sales & Customer Analytics Dashboard
 
 ## OBJECTIVE
